@@ -1,10 +1,10 @@
-Mustafa Çifci
+Mustafa Ã‡ifci
 
-Drupart için hazırlanan çalışmalardır.
+Drupart iÃ§in hazÄ±rlanan Ã§alÄ±Ã¾malardÄ±r.
 
-Daha fazlası için https://mustafacifci.com.tr adresini ziyaret edebilirsiniz.
+Daha fazlasÄ± iÃ§in https://mustafacifci.com.tr adresini ziyaret edebilirsiniz.
 
-Çalışmalara doğrudan göz atmak isterseniz;
+Ã‡alÄ±ÅŸmalara doÄŸrudan gÃ¶z atmak isterseniz;
 
 https://mustafacifci.com.tr/drupart/1
 https://mustafacifci.com.tr/drupart/2
